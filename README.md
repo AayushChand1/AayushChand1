@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Geomatics Engineering Student
+### I am a Geomatics Engineer
 
 <!--
 **AayushChand1/AayushChand1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
