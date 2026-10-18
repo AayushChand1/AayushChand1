@@ -2,7 +2,7 @@
 ### I am a Geomatics Engineer
 
 Know more about me here:<br>
-<aayushchand.com.np>
+<https://aayushchand.com.np>
 <!--
 **AayushChand1/AayushChand1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
